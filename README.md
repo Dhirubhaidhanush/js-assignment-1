@@ -11,7 +11,7 @@ const
 
 let userAge =21;
 let userName ="Dhirubhai"
-console.log("Name:"+userName + "Age: +userAge");
+console.log("Name:"+userName + "Age:"+userAge);
 
 3.Multiline comments 
 /*
